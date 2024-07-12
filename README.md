@@ -1,2 +1,2 @@
-# java-projects
-This is a repository for java mini projects 
+# java-projects- student grades
+This is a simple project that calculates the grades when scores are entered
